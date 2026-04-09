@@ -26,7 +26,7 @@ Penguin to Apple is an automated bash scripting tool designed to seamlessly tran
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/mtepenner/penguin-to-apple.git](https://github.com/mtepenner/penguin-to-apple.git)
+   git clone https://github.com/mtepenner/penguin-to-apple.git
    cd penguin-to-apple
    ```
 
